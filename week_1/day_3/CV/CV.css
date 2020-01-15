@@ -1,0 +1,70 @@
+body {
+	background-image: url("panama2.jpg");
+background-size: fill;
+}
+
+
+ h1{ 
+	background-color: black;
+text-align: center;
+color: white; 
+margin-right: 550px;
+margin-left: 550px;
+border: solid white 10px;
+border-radius: 15px;
+ }
+
+ h3{ 
+ 	border: solid white 10px;
+ 	width: 9%;
+ 	background-color: black;
+ 	color: white;
+ }
+ 
+ p{
+ 	background-color: black;
+ 	color: white;
+ 	margin-right: 750px;
+}
+
+h2{ 
+	background-color: black;
+	color: white;
+	margin-right: 1350px;
+	border: solid white 2px;
+	 }
+
+	 #container{
+	 	display: grid;
+	 	grid-template-areas: 
+	 	"about about about "
+	 	"pic skills languages"
+	 	"contact contact contact"
+	 }
+
+	 #about{
+	 	grid-area: about;
+	 	background-color: black;
+	 	color: white;
+	 }
+
+	 #pic{
+	 	grid-area: pic;
+
+	 }
+	 #skills{
+	 	grid-area: skills;
+
+	 }
+	 #languages{
+	 	grid-area: languages;
+
+	 }
+	 #contact{
+	 	grid-area: contact;
+
+	 }
+
+
+
+	 

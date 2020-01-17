@@ -1,0 +1,69 @@
+body{	
+	background-image: url(images/background2.png);
+	background-size: cover;
+}
+
+.heading{
+	
+	margin: auto;
+	text-align: center;
+
+}
+h1{
+
+	padding-top: 200px;
+	color: white;
+	
+}
+
+p{
+	padding-top: 10px;
+	color: white;
+	font-size: 15px;
+	
+}
+
+.columns{
+	color: white;
+	margin:auto;
+	padding-top: 20px;
+
+}
+
+/*#health{
+	color: white;
+	background-color: grey;
+}
+
+#automobile{
+	color: white;
+	background-color: grey;
+
+}
+#construction{
+	color: white;
+	background-color: grey;
+
+
+}
+#food{
+	color: white;
+	background-color: grey;
+
+}
+#logistic{
+	color: white;
+	background-color: grey;
+
+}
+#finance{
+	color: white;
+	background-color: grey;
+	}
+
+*/
+
+
+
+
+

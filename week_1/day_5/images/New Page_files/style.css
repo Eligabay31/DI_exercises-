@@ -1,0 +1,29 @@
+body{	
+	background-image: url(images/background2.png);
+	background-size: fill;
+}
+
+#heading{
+	display: flex;
+	justify-content: center;
+	color: white;
+	margin: auto;
+
+}
+h1{
+
+	padding-top: 200px;
+	color: white;
+	
+}
+
+h4{
+	padding-top: 5px;
+	color: white;
+	
+}
+
+
+
+
+
